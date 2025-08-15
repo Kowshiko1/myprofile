@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Kowshiko1<br>👀 I’m interested in Coding<br>🌱 I’m currently learning FULL STACK USING PYTHON<br>💞️ I’m looking to collaborate on learning new technologies<br>📫 Connect with me on linkedin profile KOWSHIK nandeti<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Fate is not in your hand ,Code do
+👋 Hi, I’m @Kowshiko1<br>👀 I’m interested in Coding<br>🌱 I’m currently learning cloud and competitive coding.<br>💞️ I’m looking to collaborate on learning new technologies<br>📫 Connect with me on linkedin profile KOWSHIK nandeti<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Fate is not in your hand ,Code do
 
 
 ## 🌐 Socials:
